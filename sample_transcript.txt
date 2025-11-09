@@ -1,0 +1,21 @@
+Team Sync Meeting - January 15, 2025
+
+Speaker 1: Hey everyone, thanks for joining. Let's circle back on the API deprecation we discussed last week.
+
+Speaker 2: Sure. We need to deprecate the old endpoint by Q2. I've already done a code review on the pull request.
+
+Speaker 1: Great. Did you reach out to the frontend team about this change?
+
+Speaker 2: Yes, I touched base with them yesterday. They're aware and will update their integration tests.
+
+Speaker 3: Just to clarify, when you say deprecate, do we completely remove it or just mark it as deprecated?
+
+Speaker 2: Good question. We'll mark it as deprecated first, then remove it in the next major release. That makes sense from a backward compatibility standpoint.
+
+Speaker 1: Agreed. Let's make sure we document this properly in the API documentation.
+
+Speaker 3: I'll take a look at that. By the way, do we need to schedule a follow-up meeting?
+
+Speaker 1: Let's play it by ear. If any issues come up, we can always sync up.
+
+Speaker 2: Sounds good. I'll keep everyone in the loop on the progress.

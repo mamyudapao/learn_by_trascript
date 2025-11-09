@@ -1,0 +1,204 @@
+Expression,Type,Meaning,Priority,Category,OccurrenceCount,Context,FirstSeenAt,LastSeenAt
+API migration,phrase,API移行,5,engineering,3,"On my end, I've been working on the API migration.",2025-11-09 08:54:35,2025-11-09 08:58:08
+REST endpoints,phrase,RESTエンドポイント,5,engineering,3,We need to deprecate the old REST endpoints by end of Q1.,2025-11-09 08:54:35,2025-11-09 08:58:08
+address,word,対処する、扱う,5,business,3,There were some pain points during the last sprint that we should address,2025-11-09 08:54:35,2025-11-09 08:58:07
+alerting,word,アラート,5,engineering,3,We need to set up proper alerting for the production environment,2025-11-09 08:54:35,2025-11-09 08:58:07
+api,word,API、アプリケーションプログラミングインターフェース,5,engineering,3,"On my end, I've been working on the API migration",2025-11-09 08:54:35,2025-11-09 08:58:07
+at scale,phrase,大規模な環境で、スケール時に,5,engineering,3,The new schema might cause some issues at scale.,2025-11-09 08:54:35,2025-11-09 08:58:08
+authentication,word,認証,5,engineering,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+blockers,word,ブロッカー、障害,5,business,3,"If any blockers come up, don't hesitate to reach out on Slack",2025-11-09 08:54:35,2025-11-09 08:58:07
+bottlenecks,word,ボトルネック,5,engineering,3,Did you run into any bottlenecks,2025-11-09 08:54:35,2025-11-09 08:58:07
+call,word,呼び出し、判断,5,business,3,Sarah: Good call,2025-11-09 08:54:35,2025-11-09 08:58:07
+code,word,コード,5,engineering,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+code review,phrase,コードレビュー,5,engineering,3,Yesterday I wrapped up the code review for the authentication microservice.,2025-11-09 08:54:35,2025-11-09 08:58:08
+dashboard,word,ダッシュボード,5,engineering,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+database,word,データベース,5,engineering,3,"Mike: Not really, but we should keep an eye on the database performance",2025-11-09 08:54:35,2025-11-09 08:58:07
+database performance,phrase,データベースのパフォーマンス,5,engineering,3,"Not really, but we should keep an eye on the database performance.",2025-11-09 08:54:35,2025-11-09 08:58:08
+deep,word,深い、詳細な,5,engineering,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+deep dive,phrase,詳しく調査する、深く掘り下げる,5,engineering,3,"Speaking of performance, I've been doing a deep dive into our monitoring setup.",2025-11-09 08:54:35,2025-11-09 08:58:08
+deployment,word,デプロイメント、展開,5,engineering,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+deployment plan,phrase,デプロイ計画,5,engineering,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan.,2025-11-09 08:54:35,2025-11-09 08:58:08
+deprecate,word,非推奨にする,5,engineering,3,We need to deprecate the old REST endpoints by end of Q1,2025-11-09 08:54:35,2025-11-09 08:58:07
+devops,word,DevOps,5,engineering,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+dive,word,深く掘り下げる,5,engineering,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+endpoints,word,エンドポイント,5,engineering,3,We need to deprecate the old REST endpoints by end of Q1,2025-11-09 08:54:35,2025-11-09 08:58:07
+engineering,word,エンジニアリング,5,engineering,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+environment,word,環境,5,engineering,3,We need to set up proper alerting for the production environment,2025-11-09 08:54:35,2025-11-09 08:58:07
+feature,word,機能,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+feature flags,phrase,機能フラグ,5,engineering,3,We should also think about implementing feature flags for the gradual rollout.,2025-11-09 08:54:35,2025-11-09 08:58:08
+flags,word,フラグ,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+follow up,phrase,フォローアップする、後追いする,5,business,3,I'll follow up with the product team to get their input on the rollout strategy.,2025-11-09 08:54:35,2025-11-09 08:58:08
+frontend,word,フロントエンド,5,engineering,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+gradual,word,段階的な,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+gradual rollout,phrase,段階的なリリース,5,engineering,3,We should also think about implementing feature flags for the gradual rollout.,2025-11-09 08:54:35,2025-11-09 08:58:08
+implementing,word,実装する,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+improve,word,改善する,5,business,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+input,word,入力、意見,5,engineering,3,I'll follow up with the product team to get their input on the rollout strategy,2025-11-09 08:54:35,2025-11-09 08:58:07
+issues,word,問題、課題,5,business,3,The new schema might cause some issues at scale,2025-11-09 08:54:35,2025-11-09 08:58:07
+keep an eye on,phrase,注意深く見守る、監視する,5,engineering,3,"Not really, but we should keep an eye on the database performance.",2025-11-09 08:54:35,2025-11-09 08:58:08
+legacy,word,レガシー、古い,5,engineering,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+legacy code,phrase,レガシーコード,5,engineering,3,We need to refactor some legacy code before we can merge the pull request.,2025-11-09 08:54:35,2025-11-09 08:58:08
+loop,word,ループ、情報共有,5,business,3,I'll keep everyone in the loop on the API migration progress,2025-11-09 08:54:35,2025-11-09 08:58:07
+merge,word,マージ、統合,5,engineering,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+metrics,word,メトリクス、指標,5,engineering,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+metrics dashboard,phrase,メトリクスダッシュボード,5,engineering,3,I'll take a look at the metrics dashboard and see what we can improve.,2025-11-09 08:54:35,2025-11-09 08:58:08
+microservice,word,マイクロサービス,5,engineering,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+migration,word,移行,5,engineering,3,"On my end, I've been working on the API migration",2025-11-09 08:54:35,2025-11-09 08:58:07
+monitoring,word,監視,5,engineering,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+monitoring setup,phrase,監視システムの設定,5,engineering,3,"Speaking of performance, I've been doing a deep dive into our monitoring setup.",2025-11-09 08:54:35,2025-11-09 08:58:08
+on the same page,phrase,認識を合わせる、同じ理解でいる,5,business,3,Today I'll touch base with the frontend team to make sure we're all on the same page.,2025-11-09 08:54:35,2025-11-09 08:58:08
+pain points,phrase,問題点、課題,5,business,3,There were some pain points during the last sprint that we should address.,2025-11-09 08:54:35,2025-11-09 08:58:08
+performance,word,パフォーマンス、性能,5,engineering,3,"Mike: Not really, but we should keep an eye on the database performance",2025-11-09 08:54:35,2025-11-09 08:58:07
+product,word,プロダクト、製品,5,business,3,We need to set up proper alerting for the production environment,2025-11-09 08:54:35,2025-11-09 08:58:07
+production,word,本番環境,5,engineering,3,We need to set up proper alerting for the production environment,2025-11-09 08:54:35,2025-11-09 08:58:07
+production environment,phrase,本番環境,5,engineering,3,We need to set up proper alerting for the production environment.,2025-11-09 08:54:35,2025-11-09 08:58:08
+pull,word,プル,5,engineering,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+pull request,phrase,プルリクエスト,5,engineering,3,We need to refactor some legacy code before we can merge the pull request.,2025-11-09 08:54:35,2025-11-09 08:58:08
+refactor,word,リファクタリング,5,engineering,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+request,word,リクエスト、要求,5,engineering,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+retrospective,word,振り返り,5,business,3,"Lisa: Before we wrap up, one more thing - we need to schedule a retrospective meeting",2025-11-09 08:54:35,2025-11-09 08:58:07
+review,word,レビュー、確認,5,engineering,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+roll,word,展開する、戻す,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+roll back,phrase,ロールバックする、元に戻す,5,engineering,3,That way we can play it by ear and roll back if anything goes wrong.,2025-11-09 08:54:35,2025-11-09 08:58:08
+rollout,word,ロールアウト、段階的展開,5,engineering,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+rollout strategy,phrase,リリース戦略,5,engineering,3,I'll follow up with the product team to get their input on the rollout strategy.,2025-11-09 08:54:35,2025-11-09 08:58:08
+run,word,実行する、走る,5,engineering,3,Did you run into any bottlenecks,2025-11-09 08:54:35,2025-11-09 08:58:07
+scale,word,規模、スケール,5,engineering,3,The new schema might cause some issues at scale,2025-11-09 08:54:35,2025-11-09 08:58:07
+schema,word,スキーマ,5,engineering,3,The new schema might cause some issues at scale,2025-11-09 08:54:35,2025-11-09 08:58:07
+set,word,設定する,5,engineering,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+set up,phrase,設定する、セットアップする,5,engineering,3,We need to set up proper alerting for the production environment.,2025-11-09 08:54:35,2025-11-09 08:58:08
+setup,word,設定、セットアップ,5,engineering,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+slack,word,Slack（チャットツール）,5,business,3,"If any blockers come up, don't hesitate to reach out on Slack",2025-11-09 08:54:35,2025-11-09 08:58:07
+sprint,word,スプリント,5,engineering,3,There were some pain points during the last sprint that we should address,2025-11-09 08:54:35,2025-11-09 08:58:07
+stand,word,立つ、スタンドアップ,5,business,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+strategy,word,戦略,5,business,3,I'll follow up with the product team to get their input on the rollout strategy,2025-11-09 08:54:35,2025-11-09 08:58:07
+sync,word,同期する、連携する,5,business,3,Let's sync up again tomorrow,2025-11-09 08:54:35,2025-11-09 08:58:07
+sync up,phrase,同期する、情報共有する,5,business,3,Let's sync up again tomorrow.,2025-11-09 08:54:35,2025-11-09 08:58:08
+team,word,チーム,5,business,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+touch base,phrase,連絡を取る、情報交換する,5,business,3,Today I'll touch base with the frontend team to make sure we're all on the same page.,2025-11-09 08:54:35,2025-11-09 08:58:08
+frontend team,phrase,フロントエンドチーム,5,engineering,2,Today I'll touch base with the frontend team to make sure we're all on the same page.,2025-11-09 08:58:08,2025-11-09 08:58:08
+retrospective meeting,phrase,振り返り会議,5,engineering,2,"Before we wrap up, one more thing - we need to schedule a retrospective meeting.",2025-11-09 08:58:08,2025-11-09 08:58:08
+base,word,基盤、連絡,4,business,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+board,word,賛成している、委員会,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+calendar invite,phrase,カレンダー招待,4,business,3,I'll send out a calendar invite.,2025-11-09 08:54:35,2025-11-09 08:58:08
+cause,word,原因、引き起こす,4,engineering,3,The new schema might cause some issues at scale,2025-11-09 08:54:35,2025-11-09 08:58:07
+circle back,phrase,後で戻って対応する,4,business,3,I'm going to circle back on that today.,2025-11-09 08:54:35,2025-11-09 08:58:08
+end of Q1,phrase,第1四半期末,4,business,3,We need to deprecate the old REST endpoints by end of Q1.,2025-11-09 08:54:35,2025-11-09 08:58:08
+follow,word,フォローする、追跡する,4,business,3,I'll follow up with the product team to get their input on the rollout strategy,2025-11-09 08:54:35,2025-11-09 08:58:07
+good call,phrase,良い判断、良いアイデア,4,business,3,Good call. We should also think about implementing feature flags for the gradual rollout.,2025-11-09 08:54:35,2025-11-09 08:58:08
+in the loop,phrase,情報を共有された状態で,4,business,3,I'll keep everyone in the loop on the API migration progress.,2025-11-09 08:54:35,2025-11-09 08:58:08
+invite,word,招待,4,business,3,I'll send out a calendar invite,2025-11-09 08:54:35,2025-11-09 08:58:07
+kick off,phrase,開始する,4,business,3,Good morning everyone. Let's kick off today's stand-up.,2025-11-09 08:54:35,2025-11-09 08:58:08
+makes sense,phrase,理にかなっている、納得できる,4,business,3,That makes sense. Did you run into any bottlenecks?,2025-11-09 08:54:35,2025-11-09 08:58:08
+meeting,word,会議,4,business,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+on board,phrase,同意している、賛成している,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan.,2025-11-09 08:54:35,2025-11-09 08:58:08
+on my end,phrase,私の方では,4,business,3,"Thanks Sarah. On my end, I've been working on the API migration.",2025-11-09 08:54:35,2025-11-09 08:58:08
+page,word,ページ,4,business,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+pain,word,痛み、問題,4,business,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+plan,word,計画,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+progress,word,進捗、進歩,4,business,3,I'll keep everyone in the loop on the API migration progress,2025-11-09 08:54:35,2025-11-09 08:58:07
+proper,word,適切な,4,business,3,We need to set up proper alerting for the production environment,2025-11-09 08:54:35,2025-11-09 08:58:07
+reach,word,連絡する、到達する,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+reach out,phrase,連絡する、声をかける,4,business,3,"If any blockers come up, don't hesitate to reach out on Slack.",2025-11-09 08:54:35,2025-11-09 08:58:08
+reached,word,連絡した,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan,2025-11-09 08:54:35,2025-11-09 08:58:07
+reached out,phrase,連絡を取った,4,business,3,I reached out to the DevOps team yesterday and they're on board with the deployment plan.,2025-11-09 08:54:35,2025-11-09 08:58:08
+run into,phrase,遭遇する、直面する,4,business,3,That makes sense. Did you run into any bottlenecks?,2025-11-09 08:54:35,2025-11-09 08:58:08
+schedule,word,スケジュールする,4,business,3,"Lisa: Before we wrap up, one more thing - we need to schedule a retrospective meeting",2025-11-09 08:54:35,2025-11-09 08:58:07
+take a look,phrase,確認する、見てみる,4,business,3,I'll take a look at the metrics dashboard and see what we can improve.,2025-11-09 08:54:35,2025-11-09 08:58:08
+touch,word,触れる、連絡する,4,business,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+working,word,働いている、機能している,4,business,3,"On my end, I've been working on the API migration",2025-11-09 08:54:35,2025-11-09 08:58:07
+wrap up,phrase,終了する、まとめる,4,business,3,"Before we wrap up, one more thing - we need to schedule a retrospective meeting.",2025-11-09 08:54:35,2025-11-09 08:58:08
+wrapped up,phrase,完了した,4,business,3,Yesterday I wrapped up the code review for the authentication microservice.,2025-11-09 08:54:35,2025-11-09 08:58:08
+product team,phrase,プロダクトチーム,4,business,2,I'll follow up with the product team to get their input on the rollout strategy.,2025-11-09 08:58:08,2025-11-09 08:58:08
+agreed,word,同意した,3,business,3,Mike: Agreed,2025-11-09 08:54:35,2025-11-09 08:58:07
+back,word,戻る,3,casual,3,I'm going to circle back on that today,2025-11-09 08:54:35,2025-11-09 08:58:07
+calendar,word,カレンダー,3,business,3,I'll send out a calendar invite,2025-11-09 08:54:35,2025-11-09 08:58:07
+corner,word,角、困った状況,3,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+ear,word,耳,3,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+end,word,終わり,3,casual,3,"On my end, I've been working on the API migration",2025-11-09 08:54:35,2025-11-09 08:58:07
+everyone,word,みんな,3,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+eye,word,目,3,casual,3,"Mike: Not really, but we should keep an eye on the database performance",2025-11-09 08:54:35,2025-11-09 08:58:07
+get back to it,phrase,作業に戻る,3,casual,3,Thanks everyone. Let's get back to it!,2025-11-09 08:54:35,2025-11-09 08:58:08
+hesitate,word,ためらう,3,business,3,"If any blockers come up, don't hesitate to reach out on Slack",2025-11-09 08:54:35,2025-11-09 08:58:07
+keep,word,保つ、維持する,3,casual,3,"Mike: Not really, but we should keep an eye on the database performance",2025-11-09 08:54:35,2025-11-09 08:58:07
+need,word,必要,3,casual,3,We need to refactor some legacy code before we can merge the pull request,2025-11-09 08:54:35,2025-11-09 08:58:07
+old,word,古い,3,casual,3,We need to deprecate the old REST endpoints by end of Q1,2025-11-09 08:54:35,2025-11-09 08:58:07
+ourselves,word,私たち自身,3,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+paint ourselves into a corner,phrase,身動きが取れない状況に追い込む,3,casual,3,We don't want to paint ourselves into a corner here.,2025-11-09 08:54:35,2025-11-09 08:58:08
+perfect,word,完璧,3,casual,3,Sarah: Perfect,2025-11-09 08:54:35,2025-11-09 08:58:07
+play,word,遊ぶ、実行する,3,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+play it by ear,phrase,様子を見ながら進める,3,casual,3,That way we can play it by ear and roll back if anything goes wrong.,2025-11-09 08:54:35,2025-11-09 08:58:08
+points,word,ポイント、要点,3,business,3,We need to deprecate the old REST endpoints by end of Q1,2025-11-09 08:54:35,2025-11-09 08:58:07
+re,word,〜について（接頭辞）,3,casual,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+rest,word,休息、残り,3,casual,3,We need to deprecate the old REST endpoints by end of Q1,2025-11-09 08:54:35,2025-11-09 08:58:07
+send,word,送る,3,business,3,I'll send out a calendar invite,2025-11-09 08:54:35,2025-11-09 08:58:07
+sense,word,意味、感覚,3,casual,3,Sarah: That makes sense,2025-11-09 08:54:35,2025-11-09 08:58:07
+sounds,word,〜のようだ,3,casual,3,Mike: Sounds good,2025-11-09 08:54:35,2025-11-09 08:58:07
+speaking,word,話すこと、〜と言えば,3,casual,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+tomorrow,word,明日,3,casual,3,Let's sync up again tomorrow,2025-11-09 08:54:35,2025-11-09 08:58:07
+wrap,word,包む、終了する,3,business,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+wrapped,word,終了した,3,business,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
+wrong,word,間違った,3,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+again,word,再び,2,casual,3,Let's sync up again tomorrow,2025-11-09 08:54:35,2025-11-09 08:58:07
+also,word,また、同様に,2,casual,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+any,word,何か,2,casual,3,Did you run into any bottlenecks,2025-11-09 08:54:35,2025-11-09 08:58:07
+anything,word,何でも,2,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+circle,word,円、回る,2,casual,3,I'm going to circle back on that today,2025-11-09 08:54:35,2025-11-09 08:58:07
+come,word,来る,2,casual,3,"If any blockers come up, don't hesitate to reach out on Slack",2025-11-09 08:54:35,2025-11-09 08:58:07
+don,word,しない,2,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+first,word,最初,2,casual,3,I'll go first,2025-11-09 08:54:35,2025-11-09 08:58:07
+get,word,得る、取得する,2,casual,3,I'll follow up with the product team to get their input on the rollout strategy,2025-11-09 08:54:35,2025-11-09 08:58:07
+go,word,行く,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+goes,word,行く,2,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+going,word,行く予定,2,casual,3,I'm going to circle back on that today,2025-11-09 08:54:35,2025-11-09 08:58:07
+good,word,良い,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+here,word,ここで,2,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+kick,word,蹴る、開始する,2,casual,3,Let's kick off today's stand-up,2025-11-09 08:54:35,2025-11-09 08:58:07
+last,word,最後の、前の,2,casual,3,There were some pain points during the last sprint that we should address,2025-11-09 08:54:35,2025-11-09 08:58:07
+let,word,させる、しましょう,2,casual,3,Let's kick off today's stand-up,2025-11-09 08:54:35,2025-11-09 08:58:07
+lisa,word,リサ（人名）,2,casual,3,"Lisa: Speaking of performance, I've been doing a deep dive into our monitoring setup",2025-11-09 08:54:35,2025-11-09 08:58:07
+ll,word,will の短縮形,2,casual,3,I'll go first,2025-11-09 08:54:35,2025-11-09 08:58:07
+look,word,見る,2,casual,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+make,word,作る,2,casual,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+makes,word,作る、〜になる,2,casual,3,Sarah: That makes sense,2025-11-09 08:54:35,2025-11-09 08:58:07
+mike,word,マイク（人名）,2,casual,3,Mike: Thanks Sarah,2025-11-09 08:54:35,2025-11-09 08:58:07
+morning,word,朝,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+new,word,新しい,2,casual,3,The new schema might cause some issues at scale,2025-11-09 08:54:35,2025-11-09 08:58:07
+one,word,一つ,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+paint,word,塗る、描く,2,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+really,word,本当に,2,casual,3,"Mike: Not really, but we should keep an eye on the database performance",2025-11-09 08:54:35,2025-11-09 08:58:07
+sarah,word,サラ（人名）,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+see,word,見る,2,casual,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+sure,word,確実に,2,casual,3,Today I'll touch base with the frontend team to make sure we're all on the same page,2025-11-09 08:54:35,2025-11-09 08:58:07
+take,word,取る,2,casual,3,I'll take a look at the metrics dashboard and see what we can improve,2025-11-09 08:54:35,2025-11-09 08:58:07
+thanks,word,ありがとう,2,casual,3,Mike: Thanks Sarah,2025-11-09 08:54:35,2025-11-09 08:58:07
+there,word,そこに,2,casual,3,There were some pain points during the last sprint that we should address,2025-11-09 08:54:35,2025-11-09 08:58:08
+thing,word,こと,2,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+think,word,考える,2,casual,3,We should also think about implementing feature flags for the gradual rollout,2025-11-09 08:54:35,2025-11-09 08:58:07
+today,word,今日,2,casual,3,Let's kick off today's stand-up,2025-11-09 08:54:35,2025-11-09 08:58:07
+ve,word,have の短縮形,2,casual,3,"Engineering Team Stand-up Meeting - 2025-01-15
+
+Sarah: Good morning everyone",2025-11-09 08:54:35,2025-11-09 08:58:07
+want,word,欲しい、したい,2,casual,3,We don't want to paint ourselves into a corner here,2025-11-09 08:54:35,2025-11-09 08:58:07
+way,word,方法、道,2,casual,3,That way we can play it by ear and roll back if anything goes wrong,2025-11-09 08:54:35,2025-11-09 08:58:07
+yesterday,word,昨日,2,casual,3,Yesterday I wrapped up the code review for the authentication microservice,2025-11-09 08:54:35,2025-11-09 08:58:07
